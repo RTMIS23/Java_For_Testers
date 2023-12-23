@@ -1,4 +1,7 @@
-package ru.stqa;
+package ru.stqa.geometry;
+
+import ru.stqa.geometry.figurs.Square;
+import ru.stqa.geometry.figurs.rectangle;
 
 public class geomtry {
     public static void main(String[] args) {
