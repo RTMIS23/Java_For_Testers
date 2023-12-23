@@ -1,3 +1,5 @@
+package ru.stqa.geometry;
+
 public class rectangle {
     static void prinRectangleArea(double a, double b) {
         var text = String.format("Площадь прямогугольника со сторонами %f and %f = %f", a, b,rectangleArea(a,b));

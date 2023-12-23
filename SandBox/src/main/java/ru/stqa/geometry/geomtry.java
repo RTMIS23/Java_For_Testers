@@ -1,3 +1,5 @@
+package ru.stqa;
+
 public class geomtry {
     public static void main(String[] args) {
         Square.printSquareArea(7.0);
